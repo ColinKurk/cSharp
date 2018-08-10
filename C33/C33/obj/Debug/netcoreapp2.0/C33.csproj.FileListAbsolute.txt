@@ -1,0 +1,11 @@
+/Users/colinkurk/Projects/C33/C33/bin/Debug/netcoreapp2.0/C33.deps.json
+/Users/colinkurk/Projects/C33/C33/bin/Debug/netcoreapp2.0/C33.runtimeconfig.json
+/Users/colinkurk/Projects/C33/C33/bin/Debug/netcoreapp2.0/C33.runtimeconfig.dev.json
+/Users/colinkurk/Projects/C33/C33/bin/Debug/netcoreapp2.0/C33.dll
+/Users/colinkurk/Projects/C33/C33/bin/Debug/netcoreapp2.0/C33.pdb
+/Users/colinkurk/Projects/C33/C33/obj/Debug/netcoreapp2.0/C33.csprojResolveAssemblyReference.cache
+/Users/colinkurk/Projects/C33/C33/obj/Debug/netcoreapp2.0/C33.csproj.CoreCompileInputs.cache
+/Users/colinkurk/Projects/C33/C33/obj/Debug/netcoreapp2.0/C33.AssemblyInfoInputs.cache
+/Users/colinkurk/Projects/C33/C33/obj/Debug/netcoreapp2.0/C33.AssemblyInfo.cs
+/Users/colinkurk/Projects/C33/C33/obj/Debug/netcoreapp2.0/C33.dll
+/Users/colinkurk/Projects/C33/C33/obj/Debug/netcoreapp2.0/C33.pdb
